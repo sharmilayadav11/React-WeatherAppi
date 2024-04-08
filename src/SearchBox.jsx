@@ -5,7 +5,7 @@ export default function SearchBox() {
         <div>
             <h3>Search for the Wearther</h3>
             <form action="">
-                <TextField id="outlined-basic" label="City Name" variant="outlined" />
+                <TextField id="city" label="City Name" variant="outlined" />
             </form>
         </div>
     )
